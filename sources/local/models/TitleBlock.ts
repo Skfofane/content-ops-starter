@@ -26,7 +26,7 @@ export const TitleBlock: Model = {
             localized: false,
             options: [
                 {
-                    label: 'Dark',
+                    label: 'red',
                     value: 'text-dark',
                     textColor: '$dark',
                     backgroundColor: '$dark',
